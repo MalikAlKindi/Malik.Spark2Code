@@ -1,0 +1,15 @@
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/bin/Debug/net9.0/CSharpFundamentalsPart5Practice
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/bin/Debug/net9.0/CSharpFundamentalsPart5Practice.deps.json
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/bin/Debug/net9.0/CSharpFundamentalsPart5Practice.runtimeconfig.json
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/bin/Debug/net9.0/CSharpFundamentalsPart5Practice.dll
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/bin/Debug/net9.0/CSharpFundamentalsPart5Practice.pdb
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/CSharpFundamentalsPart5Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/CSharpFundamentalsPart5Practice.AssemblyInfoInputs.cache
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/CSharpFundamentalsPart5Practice.AssemblyInfo.cs
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/CSharpFundamentalsPart5Practice.csproj.CoreCompileInputs.cache
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/CSharpFundamentalsPart5Practice.sourcelink.json
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/CSharpFundamentalsPart5Practice.dll
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/refint/CSharpFundamentalsPart5Practice.dll
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/CSharpFundamentalsPart5Practice.pdb
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/CSharpFundamentalsPart5Practice.genruntimeconfig.cache
+/Users/malik/Documents/GitHub/Spark2Code/outputs/CSharpFundamentalsPart5Practice/obj/Debug/net9.0/ref/CSharpFundamentalsPart5Practice.dll
