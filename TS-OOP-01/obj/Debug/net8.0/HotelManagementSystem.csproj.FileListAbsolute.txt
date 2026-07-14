@@ -1,0 +1,15 @@
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/bin/Debug/net8.0/HotelManagementSystem
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/bin/Debug/net8.0/HotelManagementSystem.deps.json
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/bin/Debug/net8.0/HotelManagementSystem.runtimeconfig.json
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/bin/Debug/net8.0/HotelManagementSystem.dll
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/bin/Debug/net8.0/HotelManagementSystem.pdb
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/HotelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/HotelManagementSystem.AssemblyInfoInputs.cache
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/HotelManagementSystem.AssemblyInfo.cs
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/HotelManagementSystem.csproj.CoreCompileInputs.cache
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/HotelManagementSystem.sourcelink.json
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/HotelManagementSystem.dll
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/refint/HotelManagementSystem.dll
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/HotelManagementSystem.pdb
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/HotelManagementSystem.genruntimeconfig.cache
+/Users/malik/Documents/GitHub/Spark2Code/TS-OOP-01/obj/Debug/net8.0/ref/HotelManagementSystem.dll
